@@ -2,8 +2,7 @@
 
 ___
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 ___
 
 ![Hilmy Sakti github stats](https://github-readme-stats.vercel.app/api?username=HilmySakti&show_icons=true&theme=buefy&show_owner=true)
