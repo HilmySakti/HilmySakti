@@ -2,8 +2,9 @@
 
 ___
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="300px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="300px">
+<img src="https://github.com/HilmySakti/HilmySakti/blob/main/06458e34cd9eb1b2edc062ca4b64550e88c51609_hq.jpg" width="300px">
+
+
 
 ___
 
