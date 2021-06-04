@@ -61,11 +61,11 @@ ___
 
 </P>
 
-#MY BUSSINES EMAIL
-[ABANDEL09@GMAIL.COM]
+# MY BUSSINES EMAIL
+[EMAIL](abandel09@gmail.com)
 
-#MY CHANNEL YOUTUBE
-[https://youtube.com/c/HILMYGAMING87]
+# MY CHANNEL YOUTUBE
+[YOUTUBE CHANNEL](https://youtube.com/c/HILMYGAMING87)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
