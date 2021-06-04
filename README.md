@@ -1,7 +1,51 @@
+<p align="center">
+<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="80%" alt="20210521-141142"/>
+</p>
+
+- 🌱 I’m currently learning *WhatsApp Bot*.
+
+- 👀 I'm currently focusing on *JavaScript*.
+
+- 📝 I'm currently working on [`HilmySakti`](https://github.com/HilmySakti/) 
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
+<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> </p>
+<p align="center">
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HilmySakti" />
+</p>
+___
+
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
-<p align='center'><a href="https://www.instagram.com/impostor9531/"><img height="200" src="https://media1.tenor.com/images/89fe272fcd427816312f4cbcc2d22d90/tenor.gif?itemid=5588596"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://www.instagram.com/impostor9531/"><img height="200" src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
@@ -44,4 +88,20 @@ ___
 ![](https://github-profile-trophy.vercel.app/?username=HilmySakti&row=2&column=3)
 
 ___
+# INTRODUCTING MY SELF 
+```
+> Name: Hilmy Muhammad Zidane Aulany
+> Status: Student at SMPN 1 Malang
+> Address: Malang, Jawa Timur, Inodonesia
+> Age: 13 Years Old
+> Date Of Birth: December 20, 2007
+```
 
+# SUPPORT ME
+[TRAKTEER](https://trakteer.id/HilmyGaming87)
+<!---
+HilmySakti/HilmySakti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+___
+   
