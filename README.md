@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ ___
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
-<p align='center'><a href="https://www.instagram.com/impostor9531/"><img height="200" src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://www.instagram.com/HilmyShop.Official/"><img height="200" src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
