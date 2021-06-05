@@ -1,3 +1,11 @@
+
+<h1  align='center'> Hi there 👋 </h1>
+
+<p align='center'> Hi👋, i'm HilmySakti</p>
+
+<p align='center'> And This My IngFo </p>
+___
+
 <p align="center">
 <img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="50%" alt="20210521-141142"/>
 </p>
@@ -7,8 +15,17 @@
 - 👀 I'm currently focusing on *JavaScript*.
 
 - 📝 I'm currently working on [`HilmySakti`](https://github.com/HilmySakti/) 
+___
 
-
+# INTRODUCTING MY SELF 
+```
+> Name: Hilmy Muhammad Zidane Aulany
+> Status: Student at SMPN 1 Malang
+> Address: Malang, Jawa Timur, Inodonesia
+> Age: 13 Years Old
+> Date Of Birth: December 20, 2007
+```
+___
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -47,13 +64,6 @@ ___
 
 <p align='center'><a href="https://www.instagram.com/HilmyShop.Official/"><img height="200" src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg"></a>&nbsp;&nbsp;</p>
 
-<h1  align='center'> Hi there 👋 </h1>
-
-<p align='center'> Hi👋, i'm HilmySakti</p>
-
-<p align='center'> And This My Stat </p>
-
-<p align='center'>
 
    <a href="https://www.instagram.com/HilmyShop.Official/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
 
@@ -88,15 +98,7 @@ ___
 ![](https://github-profile-trophy.vercel.app/?username=HilmySakti&row=2&column=3)
 
 ___
-# INTRODUCTING MY SELF 
-```
-> Name: Hilmy Muhammad Zidane Aulany
-> Status: Student at SMPN 1 Malang
-> Address: Malang, Jawa Timur, Inodonesia
-> Age: 13 Years Old
-> Date Of Birth: December 20, 2007
-```
-
+  
 # SUPPORT ME
 [TRAKTEER](https://trakteer.id/HilmyGaming87)
 <!---
