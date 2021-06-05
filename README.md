@@ -1,4 +1,8 @@
 
+<p align="center">
+<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="50%" alt="20210521-141142"/>
+</p>
+
 <h1  align='center'> Hi there 👋 </h1>
 
 <p align='center'> Hi👋, i'm HilmySakti</p>
@@ -6,9 +10,6 @@
 <p align='center'> And This My IngFo </p>
 ___
 
-<p align="center">
-<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="50%" alt="20210521-141142"/>
-</p>
 
 - 🌱 I’m currently learning *WhatsApp Bot*.
 
@@ -62,10 +63,9 @@ ___
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
-<p align='center'><a href="https://www.instagram.com/HilmyShop.Official/"><img height="200" src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg"></a>&nbsp;&nbsp;</p>
+# MY SOCIAL MEDIA
 
-
-   <a href="https://www.instagram.com/HilmyShop.Official/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/HilmyShop.Official/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
 
    <a href="https://wa.me/081217779427"><img height="30" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png"></a>
 
