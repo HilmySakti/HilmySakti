@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="80%" alt="20210521-141142"/>
+<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="50%" alt="20210521-141142"/>
 </p>
 
 - 🌱 I’m currently learning *WhatsApp Bot*.
@@ -26,7 +26,7 @@
 </p>
 <p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> </p>
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=HilmySakti&theme=juicyfresh" /><a>
 </p>
 
 <p align="center">
