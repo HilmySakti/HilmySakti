@@ -80,7 +80,6 @@ ___
 # SUPPORT ME
 [TRAKTEER](https://trakteer.id/HilmyGaming87)
 
-  *HilmySakti/HilmySakti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes*
+  *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
    
