@@ -53,7 +53,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HilmySakti&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
 <p align="center">
@@ -76,26 +76,6 @@ ___
 
 # MY CHANNEL YOUTUBE
 [YOUTUBE CHANNEL](https://youtube.com/c/HILMYGAMING87)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
-</p>
-
-___
-
-
-![Hilmy Sakti github stats](https://github-readme-stats.vercel.app/api?username=HilmySakti&show_icons=true&theme=buefy&show_owner=true)
-
-
-
-___
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
-___
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HilmySakti&theme=buefy&hide=css,html)
-![](https://github-profile-trophy.vercel.app/?username=HilmySakti&row=2&column=3)
 
 ___
   
