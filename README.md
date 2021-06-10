@@ -43,15 +43,15 @@ ___
 <p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> </p>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&theme=tokyonight" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HilmySakti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact&theme=tokyonight" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark" /><a>
 </p>
 
 <p align="center">
@@ -82,4 +82,8 @@ ___
 
   *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
-   
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakt&repo=anime-grabber)](https://github.com/HilmySakti/anime-grabber)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakt&repo=HilmySakti)](https://github.com/HilmySakti/HilmySakti)
+
