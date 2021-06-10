@@ -58,10 +58,6 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=neon-dark&hide_border=true" /><a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HilmySakti&layout=compat" /><a>
-</p>  
-  
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
