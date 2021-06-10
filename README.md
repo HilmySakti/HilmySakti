@@ -51,7 +51,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
 <p align="center">
