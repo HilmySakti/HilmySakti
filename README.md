@@ -57,6 +57,8 @@ ___
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
+  
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=anime-scrapper&theme=tokyonight)](https://github.com/HilmySakti/anime-scrapper) 
 
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
