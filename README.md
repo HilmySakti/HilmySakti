@@ -55,7 +55,7 @@ ___
 </p>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HilmySakti&theme=radical&margin-w=12&no-bg=true&no-frame=false" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&no-bg=true&no-frame=false" /><a>
 </p>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=HilmySakti&theme=tokyonight)](https://github.com/HilmySakti/anime-scrapper) 
