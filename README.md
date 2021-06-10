@@ -47,7 +47,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=tokyonight&hide_border=false" /><a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=tokyonight&hide_border=false" /><a>
 </p>
   
 <p align="center">
