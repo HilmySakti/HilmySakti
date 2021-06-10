@@ -58,6 +58,10 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=neon-dark&hide_border=true" /><a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HilmySakti&layout=compat" /><a>
+</p>  
+  
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
@@ -82,8 +86,3 @@ ___
 
   *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakt&repo=anime-grabber)](https://github.com/HilmySakti/anime-grabber)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakt&repo=HilmySakti)](https://github.com/HilmySakti/HilmySakti)
-
