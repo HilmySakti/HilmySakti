@@ -51,11 +51,11 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=tokyonight&hide_border=true" /><a>
+</p>
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
