@@ -55,7 +55,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=neon-dark&hide_border=true" /><a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=tokyonight&hide_border=true" /><a>
 </p>
 
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
