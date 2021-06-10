@@ -47,11 +47,11 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HilmySakti&theme=tokyonight&layout=compact" /></a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=tokyonight&hide_border=true" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HilmySakti&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
