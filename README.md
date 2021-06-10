@@ -60,6 +60,8 @@ ___
   
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=HilmySakti&theme=tokyonight)](https://github.com/HilmySakti/anime-scrapper) 
 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakti&repo=DnsBot&theme=tokyonight)](https://github.com/HilmySakti/DnsBot)  
+  
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
