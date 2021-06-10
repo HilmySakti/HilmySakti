@@ -61,13 +61,13 @@ ___
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
 
-# MY SOCIAL MEDIA
+# 📫 Follow Me On
 
- <a href="https://www.instagram.com/HilmyShop.Official/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
-
-   <a href="https://wa.me/081217779427"><img height="30" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png"></a>
-
-</P>
+<p align="center">
+<a href="https://www.instagram.com/HilmyShop.Official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/HILMYGAMING87" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6281217779427" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
 
 # MY BUSSINES EMAIL
 [EMAIL](abandel09@gmail.com)
