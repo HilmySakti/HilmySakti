@@ -18,7 +18,7 @@ ___
 # INTRODUCTING MY SELF 
 ```
 > Name: Hilmy Muhammad Zidane Aulany
-> Status: Student at SMPN 1 Malang
+> Status: Single Man and Student at SMPN 1 Malang
 > Address: Malang, Jawa Timur, Inodonesia
 > Age: 13 Years Old
 > Date Of Birth: December 20, 2007
@@ -54,9 +54,7 @@ ___
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HilmySakti" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HilmySakti&theme=neon-dark&hide_border=true)](KONTOL BAPAK KAU PECAH!)
 
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
