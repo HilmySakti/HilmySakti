@@ -1,5 +1,6 @@
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=HilmySakti&description=Hi,%20i%27m%20HilmySakti%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/74033002?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=HilmyShop.Official&github=HilmySakti&pattern=leaf&colorPattern=%23eaeaea"/>
+<p align="center">
+  <a href="https://github.com/HilmySakti"><img src="https://cardivo.vercel.app/api?name=HilmySakti&description=Hi,%20i%27m%20HilmySakti%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/74033002?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=HilmyShop.Official&github=HilmySakti&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
@@ -55,7 +56,7 @@ ___
 </p>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=HilmySakti&theme=tokyonight)](https://github.com/HilmySakti/anime-scrapper) 
