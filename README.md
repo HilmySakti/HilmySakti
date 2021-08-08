@@ -60,7 +60,7 @@ ___
 </p>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=FacebookPhising&theme=tokyonight)](https://github.com/HilmySakti/FcaebookPhising) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakti&repo=DnsBot&theme=tokyonight)](https://github.com/HilmySakti/DnsBot)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakti&repo=SpamWaBrutal&theme=tokyonight)](https://github.com/HilmySakti/SpamWaBrutal/)  
   
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
 ___
