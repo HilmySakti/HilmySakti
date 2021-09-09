@@ -83,18 +83,12 @@ const HilmySakti = () => {
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
-        Instagram : "https://www.instagram.com/HilmyShop.Official"
+        Instagram : "https://www.instagram.com/HilmyShop.Official",
+        Youtube : "https://www.youtube.com/channel/UCK3tm53XlprZXas76Vz5mAA"
     }
   }
 }
 ```    
-
-# MY BUSSINES EMAIL
-[EMAIL](abandel09@gmail.com)
-
-# MY CHANNEL YOUTUBE
-[YOUTUBE CHANNEL](https://youtube.com/c/HILMYGAMING87)
-
 ___
   
 # SUPPORT ME
