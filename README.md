@@ -6,7 +6,7 @@
 
 <p align='center'> Hi👋, i'm HilmySakti</p>
 
-<p align='center'> And This My IngFo </p>
+# AND THIS MY INFO
 
 
 - 🌱 I’m currently learning *WhatsApp Bot*.
@@ -92,7 +92,7 @@ const HilmySakti = () => {
 ___
   
 # SUPPORT ME
-[TRAKTEER](https://trakteer.id/HilmyGaming87)
+[![Trakteer](https://img.shields.io/badge/Support%20Me!-Trakteer-red)](https://trakteer.id/HilmyGaming87)
 
   *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
