@@ -20,8 +20,8 @@ ___
 ```
 > Name: Hilmy Muhammad Zidane Aulany
 > Status: Single Man and Student at SMPN 1 Malang
-> Address: Malang, Jawa Timur, Inodonesia
-> Age: 13 Years Old
+> Address: Malang, Jawa Timur, Indonesia
+> Age: 14 Years Old
 > Date Of Birth: December 20, 2007
 ```
 ___
@@ -92,7 +92,7 @@ const HilmySakti = () => {
 ___
   
 # SUPPORT ME
-[![Trakteer](https://img.shields.io/badge/Support%20Me!-Trakteer-red)](https://trakteer.id/HilmyGaming87)
+[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/HilmyGaming87)
 
   *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
