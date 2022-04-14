@@ -43,7 +43,9 @@ ___
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> </p>
+<p align="center"> 
+  <a href="https://github.com/HilmySakti"><img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> 
+</p>
 
 <p align="center">
   <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=HilmySakti&&theme=tokyonight&show_icons=true" /></a>
