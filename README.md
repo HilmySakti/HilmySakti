@@ -87,7 +87,7 @@ const HilmySakti = () => {
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
-        Instagram : "https://www.instagram.com/HilmyShop.Official",
+        Instagram : "https://www.instagram.com/hilmysakti._",
         Youtube : "https://www.youtube.com/channel/UCK3tm53XlprZXas76Vz5mAA"
     }
   }
