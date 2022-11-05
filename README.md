@@ -5,7 +5,7 @@
 <h1  align='center'> Hi there 👋 </h1>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+HilmySakti;I+Learn+HTML+And+Javascript;I+Am+14+Years+Old;I+live+In+Indonesia;Pls+don't+bully+me+:(+:(" alt="Asu">
+  <a href="https://github.com/HilmySakti"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+HilmySakti;I+Learn+HTML+And+Javascript;I+Am+14+Years+Old;I+live+In+Indonesia" alt="Asu">
 </p>
 
 # AND THIS MY INFO
@@ -98,5 +98,5 @@ ___
 # SUPPORT ME
 [![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/HilmyGaming87)
 
-  *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
+  *Hey!,You Can Recode This `readme.md` For Your GitHUb Profile Config!*
 ___
