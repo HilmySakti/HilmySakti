@@ -96,7 +96,5 @@ const HilmySakti = () => {
 ___
   
 # SUPPORT ME
-[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/HilmyGaming87)
-
-  *Hey!,You Can Recode This `readme.md` For Your GitHUb Profile Config!*
+[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/HiSkayXD)
 ___
