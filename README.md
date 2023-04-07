@@ -7,22 +7,13 @@
 <p align="center">
   <a href="https://github.com/HilmySakti"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+HilmySakti;I+Learn+HTML+And+Javascript;I+Am+15+Years+Old;I+live+In+Indonesia" alt="Asu">
 </p>
-
-# AND THIS MY INFO
-
-
-- 🌱 I’m currently learning *WhatsApp Bot*.
-
-- 👀 I'm currently focusing on *JavaScript*.
-
-- 📝 I'm currently working on [`HilmySakti`](https://github.com/HilmySakti/) 
 ___
 
 # INTRODUCTING MY SELF 
 ```
 > Name: Hilmy Muhammad Zidane Aulany
-> Status: Single Man and Student at SMPN 1 Malang
-> Address: Malang, Jawa Timur, Indonesia
+> Status: Student at SMPN 1 Malang
+> Address: Malang, Indonesia
 > Age: 15 Years Old
 > Date Of Birth: December 20, 2007
 ```
