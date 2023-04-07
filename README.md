@@ -14,7 +14,7 @@
 > Status: Student at SMPN 1 Malang
 > Address: Malang, Indonesia
 > Age: 15 Years Old
-> Date Of Birth: December 20, 2007
+> Date Of Birth: December 20,
 ```
 ___
 
