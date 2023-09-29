@@ -34,7 +34,7 @@ ___
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/HilmySakti"><img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> 
+  <a href="https://github.com/HilmySakti"><img src=https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHilmySakti&label=Visitors&countColor=%23ba68c8 alt=HilmySakti/></a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hilmysakti&repo=FacebookPhising&theme=tokyonight)](https://github.com/HilmySakti/FcaebookPhising) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HilmySakti&repo=SpamWaBrutal&theme=tokyonight)](https://github.com/HilmySakti/SpamWaBrutal/)  
   
-[![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/c/HILMYGAMING87)
+[![SAGIRI IZUMI](https://images5.alphacoders.com/821/821744.png)](https://youtube.com/c/hilmymuhz.a)
 ___
 
 # 📫 Follow Me On
@@ -78,7 +78,7 @@ const HilmySakti = () => {
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
         Instagram : "https://www.instagram.com/hilmysakti._",
-        Youtube : "https://www.youtube.com/channel/UCK3tm53XlprZXas76Vz5mAA"
+        Youtube : "https://youtube.com/@hilmymuhz.a"
     }
   }
 }
