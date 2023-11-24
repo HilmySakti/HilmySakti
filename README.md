@@ -63,7 +63,7 @@ ___
 
 <p align="center">
 <a href="https://www.instagram.com/hilmysakti._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/hilmymuhammadz.a" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.youtube.com/channel/UC_7tuTIeDR2_B_adFnrk1LQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehe" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
     
@@ -73,12 +73,12 @@ const HilmySakti = () => {
   return {
     pronouns: "She" | "Her",
     technologies:{
-        backEnd: "ExpressJs"
+        backEnd: "NodeJS"
     },
     social:{
-        Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
+        WhatsApp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
         Instagram : "https://www.instagram.com/hilmysakti._",
-        Youtube : "https://youtube.com/@hilmymuhz.a"
+        YouTube : "https://youtube.com/@hilmymuhz.a"
     }
   }
 }
