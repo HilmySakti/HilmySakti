@@ -70,7 +70,7 @@ ___
 ```js
 const HilmySakti = () => {
   return {
-    pronouns: "She" | "Her",
+    pronouns: "He" | "Him",
     technologies:{
         backEnd: "NodeJS"
     },
