@@ -5,16 +5,15 @@
 <h1  align='center'> Hi there 👋 </h1>
 
 <p align="center">
-  <a href="https://github.com/HilmySakti"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+HilmySakti;I+Learn+HTML+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesia" alt="Asu">
+  <a href="https://github.com/HilmySakti"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+HilmySakti;I+Learn+HTML+And+Javascript;I+Am+17+Years+Old;I+live+In+Indonesia" alt="Asu">
 </p>
 
 # INTRODUCTING MY SELF 
 ```
-> Name: Hilmy Muhammad Zidane A
+> Name: Hilmy Muhammad Z.A
 > Status: Student
 > Address: Malang, Indonesia
-> Age: 16 Years Old
-> Date Of Birth: December 20
+> Age: 17 Years Old
 ```
 ___
 
